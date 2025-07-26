@@ -1,2 +1,2 @@
 # Core-AI-AI-Builder-
-This is an Ai that Build AI!
+This is an AI that Build AI!
